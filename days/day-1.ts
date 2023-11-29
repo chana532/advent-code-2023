@@ -1,12 +1,12 @@
 import { readFile } from '../util/readFile';
 
 
-const solution = (lines) => {
-
+const solution = (lines: any) => {
+    console.log("solution: ", lines)
 }
 
 
-async () => {
+(async () => {
     const lines = (await readFile('./inputs/day-1')).split('\r\n');
-    console.log(solution(lines));
-};
+    solution(lines)
+})();;
