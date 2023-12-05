@@ -1,6 +1,6 @@
 # advent-code-2023
 
-Written by Anna using Typescript and no brain cells :D
+Written by Anna using Typescript and zero brain cells :D
 
 Day 1: complete head empty though
 Day 2: complete and to lazy to clean up
