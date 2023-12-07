@@ -9,7 +9,7 @@ Written by Anna using Typescript and zero brain cells :D
 
 **Day 2**: complete and to lazy to clean up
 
-**Day 3**: skipped i hate these types of problems
+**Day 3**: skipping i hate these types of problems
 
 **Day 4**: complete and a somewhat good solution
 
@@ -19,3 +19,8 @@ Written by Anna using Typescript and zero brain cells :D
 
 **Day 7**: 
 
+**Day 8**: 
+
+**Day 9**: 
+
+**Day 10**: 
