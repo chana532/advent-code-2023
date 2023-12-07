@@ -1,6 +1,5 @@
 import { readFile } from '../util/readFile';
 
-
 const solutionPartOne = (lines: any) => {
     let sum = 0
 
