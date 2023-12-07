@@ -15,7 +15,7 @@ Written by Anna using Typescript and zero brain cells :D
 
 **Day 5**: skipping because to many words 
 
-**Day 6**: 
+**Day 6**: brute force <3
 
 **Day 7**: 
 
