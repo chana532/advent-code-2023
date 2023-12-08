@@ -20,7 +20,7 @@ const solutionPartTwo = (lines: any) => {
     const linesExample = (await readFile('./inputs/example')).split('\r\n');
     solutionPartOne(linesExample)
     solutionPartTwo(linesExample)
-    const lines = (await readFile('./inputs/day5')).split('\r\n');
+    const lines = (await readFile('./inputs/day7')).split('\r\n');
     solutionPartOne(lines)
     solutionPartTwo(lines)
 })();;

@@ -19,7 +19,7 @@ Written by Anna using Typescript and zero brain cells :D
 
 **Day 7**: 
 
-**Day 8**: 
+**Day 8**: gross but not the worst
 
 **Day 9**: 
 
