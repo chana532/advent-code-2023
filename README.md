@@ -17,10 +17,20 @@ Written by Anna using Typescript and zero brain cells :D
 
 **Day 6**: brute force <3
 
-**Day 7**: 
+**Day 7**: did part 1 but part 2 does not look fun so it will be a pass
 
 **Day 8**: gross but not the worst
 
-**Day 9**: 
+**Day 9**: this was a nice problem 
 
 **Day 10**: 
+
+**Day 11**: 
+
+**Day 12**: 
+
+**Day 13**: 
+
+**Day 14**:
+
+**Day 15**: 
