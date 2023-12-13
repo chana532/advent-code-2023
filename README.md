@@ -23,14 +23,16 @@ Written by Anna using Typescript and zero brain cells :D
 
 **Day 9**: this was a nice problem 
 
-**Day 10**: 
+**Day 10**: this problem does not bring me joy and i don't want to think about it
 
-**Day 11**: 
+**Day 11**: ugh i hate these problems 
 
-**Day 12**: 
+**Day 12**: Giving up LOL 
 
 **Day 13**: 
 
 **Day 14**:
 
 **Day 15**: 
+
+I made it so much farther than last years though :D See you next year aoc!
